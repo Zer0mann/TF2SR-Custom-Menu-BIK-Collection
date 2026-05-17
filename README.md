@@ -8,41 +8,56 @@ Keep in mind that custom menus will be replaced with the default one if you veri
 
 # Previews
 ## Calithon 2019 - made by Taskinoz
-![[Calithon Banner V1.gif]]
+
+![Calithon Banner V1](_Preview%20Images/Calithon%20Banner%20V1.png)
 
 ## GDQ 2017 - made by Taskinoz
-![[GDQ2017.gif]]
+
+![GDQ 2017](_Preview%20Images/GDQ2017.png)
 
 ## GDQx 2018 - made by Taskinoz
-![[GDQx Custom Menu.gif]]
 
-## M3M - made by Yuka (aka Angry Space Dorito)![[m3m_sword.gif]]
-![[m3m_slideshow.gif|697]]
+![GDQx Custom Menu](_Preview%20Images/GDQx%20Custom%20Menu.png)
+
+## M3M - made by Yuka (aka Angry Space Dorito)
+
+![M3M Sword](_Preview%20Images/m3m_sword.png)
+
+<img src="_Preview%20Images/m3m_slideshow.png" width="697">
 
 ## M4M - made by Yuka (aka Angry Space Dorito)
-![[m4m_beacon.gif]]
+
+![M4M Beacon](_Preview%20Images/m4m_beacon.png)
 
 ## M5M - made by Zeroman (aka H00man)
-![[greymenu.gif]]![[red.gif]]
-![[magenta.gif]]
-![[trans.gif]]![[white.gif]]![[yellow.gif]]
+
+![Grey Menu](_Preview%20Images/greymenu.png)
+![Red](_Preview%20Images/red.png)
+![Magenta](_Preview%20Images/magenta.png)
+![Transparent](_Preview%20Images/trans.png)
+![White](_Preview%20Images/white.png)
+![Yellow](_Preview%20Images/yellow.png)
 
 ## M6M - made by Zeroman (aka H00man)
-![[m6m_teal.gif]]
-![[m6m_blue.gif]]
-![[m6m_purple.gif]]
-![[m6m_red.gif|697]]
+
+![M6M Teal](_Preview%20Images/m6m_teal.png)
+![M6M Blue](_Preview%20Images/m6m_blue.png)
+![M6M Purple](_Preview%20Images/m6m_purple.png)
+
+<img src="_Preview%20Images/m6m_red.png" width="697">
 
 ## Pride Event - made by Zeroman (aka H00man)
-![[pride_bi.gif|697]]
-%% (this one's only sped up for previews sake) %%
-![[pride_cycle.gif]]
-![[pride_lesb.gif]]
-![[pride_trans.gif|697]]
+
+<img src="_Preview%20Images/pride_bi.png" width="697">
+
+<img src="_Preview%20Images/pride_lesb.png" width="697">
+
+<img src="_Preview%20Images/pride_trans.png" width="697">
 
 ## SGDQ 2019 - made by Clubwho
-![[sgdq_2019.gif]]
+
+![SGDQ 2019](_Preview%20Images/sgdq_2019.png)
 
 ## SGDQ 2023 - made by Yuka (aka Angry Space Dorito)
-![[sgdq_2023.gif|691]]
 
+<img src="_Preview%20Images/sgdq_2023.png" width="691">
