@@ -7,42 +7,61 @@ Download the BIK file of the background you want, rename it to "menu_act01" and 
 Keep in mind that custom menus will be replaced with the default one if you verify the game files or reinstall the game.
 
 # Previews
-## Calithon 2019 - made by Taskinoz
-![[Calithon Banner V1.gif]]
+# Calithon 2019 - made by Taskinoz
 
-## GDQ 2017 - made by Taskinoz
-![[GDQ2017.gif]]
+![Calithon Banner V1](Calithon%20Banner%20V1.gif)
 
-## GDQx 2018 - made by Taskinoz
-![[GDQx Custom Menu.gif]]
+# GDQ 2017 - made by Taskinoz
 
-## M3M - made by Yuka (aka Angry Space Dorito)![[m3m_sword.gif]]
-![[m3m_slideshow.gif|697]]
+![GDQ 2017](GDQ2017.gif)
 
-## M4M - made by Yuka (aka Angry Space Dorito)
-![[m4m_beacon.gif]]
+# GDQx 2018 - made by Taskinoz
 
-## M5M - made by Zeroman (aka H00man)
-![[greymenu.gif]]![[red.gif]]
-![[magenta.gif]]
-![[trans.gif]]![[white.gif]]![[yellow.gif]]
+![GDQx Custom Menu](GDQx%20Custom%20Menu.gif)
 
-## M6M - made by Zeroman (aka H00man)
-![[m6m_teal.gif]]
-![[m6m_blue.gif]]
-![[m6m_purple.gif]]
-![[m6m_red.gif|697]]
+# M3M - made by Yuka (aka Angry Space Dorito)
 
-## Pride Event - made by Zeroman (aka H00man)
-![[pride_bi.gif|697]]
-%% (this one's only sped up for previews sake) %%
-![[pride_cycle.gif]]
-![[pride_lesb.gif]]
-![[pride_trans.gif|697]]
+![M3M Sword](m3m_sword.gif)
 
-## SGDQ 2019 - made by Clubwho
-![[sgdq_2019.gif]]
+<img src="m3m_slideshow.gif" width="697">
 
-## SGDQ 2023 - made by Yuka (aka Angry Space Dorito)
-![[sgdq_2023.gif|691]]
+# M4M - made by Yuka (aka Angry Space Dorito)
 
+![M4M Beacon](m4m_beacon.gif)
+
+# M5M - made by Zeroman (aka H00man)
+
+![Grey Menu](greymenu.gif)
+![Red](red.gif)
+![Magenta](magenta.gif)
+![Transparent](trans.gif)
+![White](white.gif)
+![Yellow](yellow.gif)
+
+# M6M - made by Zeroman (aka H00man)
+
+![M6M Teal](m6m_teal.gif)
+![M6M Blue](m6m_blue.gif)
+![M6M Purple](m6m_purple.gif)
+
+<img src="m6m_red.gif" width="697">
+
+# Pride Event - made by Zeroman (aka H00man)
+
+<img src="pride_bi.gif" width="697">
+
+<!-- this one's only sped up for preview's sake -->
+
+![Pride Cycle](pride_cycle.gif)
+
+<img src="pride_lesb.gif" width="697">
+
+<img src="pride_trans.gif" width="697">
+
+# SGDQ 2019 - made by Clubwho
+
+![SGDQ 2019](sgdq_2019.gif)
+
+# SGDQ 2023 - made by Yuka (aka Angry Space Dorito)
+
+<img src="sgdq_2023.gif" width="691">
