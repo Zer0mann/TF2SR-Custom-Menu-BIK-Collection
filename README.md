@@ -9,55 +9,55 @@ Keep in mind that custom menus will be replaced with the default one if you veri
 # Previews
 ## Calithon 2019 - made by Taskinoz
 
-![Calithon Banner V1](_Preview%20Images/Calithon/Calithon%20Banner%20V1.png)
+![Calithon Banner V1](_Preview%20Images/Calithon/Calithon%20Banner%20V1.gif)
 
 ## GDQ 2017 - made by Taskinoz
 
-![GDQ 2017](_Preview%20Images/GDQ/GDQ2017.png)
+![GDQ 2017](_Preview%20Images/GDQ/GDQ2017.gif)
 
 ## GDQx 2018 - made by Taskinoz
 
-![GDQx Custom Menu](_Preview%20Images/GDQ/GDQx%20Custom%20Menu.png)
+![GDQx Custom Menu](_Preview%20Images/GDQ/GDQx%20Custom%20Menu.gif)
 
 ## M3M - made by Yuka (aka Angry Space Dorito)
 
-![M3M Sword](_Preview%20Images/M3M/m3m_sword.png)
+![M3M Sword](_Preview%20Images/M3M/m3m_sword.gif)
 
-<img src="_Preview%20Images/M3M/m3m_slideshow.png" width="697">
+<img src="_Preview%20Images/M3M/m3m_slideshow.gif" width="697">
 
 ## M4M - made by Yuka (aka Angry Space Dorito)
 
-![M4M Beacon](_Preview%20Images/M4M/m4m_beacon.png)
+![M4M Beacon](_Preview%20Images/M4M/m4m_beacon.gif)
 
 ## M5M - made by Zeroman (aka H00man)
 
-![Grey Menu](_Preview%20Images/M5M/greymenu.png)
-![Red](_Preview%20Images/M5M/red.png)
-![Magenta](_Preview%20Images/M5M/magenta.png)
-![Transparent](_Preview%20Images/M5M/trans.png)
-![White](_Preview%20Images/M5M/white.png)
-![Yellow](_Preview%20Images/M5M/yellow.png)
+![Grey Menu](_Preview%20Images/M5M/greymenu.gif)
+![Red](_Preview%20Images/M5M/red.gif)
+![Magenta](_Preview%20Images/M5M/magenta.gif)
+![Transparent](_Preview%20Images/M5M/trans.gif)
+![White](_Preview%20Images/M5M/white.gif)
+![Yellow](_Preview%20Images/M5M/yellow.gif)
 
 ## M6M - made by Zeroman (aka H00man)
 
-![M6M Teal](_Preview%20Images/M6M/m6m_teal.png)
-![M6M Blue](_Preview%20Images/M6M/m6m_blue.png)
-![M6M Purple](_Preview%20Images/M6M/m6m_purple.png)
+![M6M Teal](_Preview%20Images/M6M/m6m_teal.gif)
+![M6M Blue](_Preview%20Images/M6M/m6m_blue.gif)
+![M6M Purple](_Preview%20Images/M6M/m6m_purple.gif)
 
-<img src="_Preview%20Images/M6M/m6m_red.png" width="697">
+<img src="_Preview%20Images/M6M/m6m_red.gif" width="697">
 
 ## Pride Event - made by Zeroman (aka H00man)
 
-<img src="_Preview%20Images/Pride%20event/pride_bi.png" width="697">
+<img src="_Preview%20Images/Pride%20event/pride_bi.gif" width="697">
 
-<img src="_Preview%20Images/Pride%20event/pride_lesb.png" width="697">
+<img src="_Preview%20Images/Pride%20event/pride_lesb.gif" width="697">
 
-<img src="_Preview%20Images/Pride%20event/pride_trans.png" width="697">
+<img src="_Preview%20Images/Pride%20event/pride_trans.gif" width="697">
 
 ## SGDQ 2019 - made by Clubwho
 
-![SGDQ 2019](_Preview%20Images/GDQ/sgdq_2019.png)
+![SGDQ 2019](_Preview%20Images/GDQ/sgdq_2019.gif)
 
 ## SGDQ 2023 - made by Yuka (aka Angry Space Dorito)
 
-<img src="_Preview%20Images/GDQ/sgdq_2023.png" width="691">
+<img src="_Preview%20Images/GDQ/sgdq_2023.gif" width="691">
