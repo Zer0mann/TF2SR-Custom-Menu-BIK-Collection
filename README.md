@@ -6,7 +6,7 @@ Download the BIK file of the background you want, rename it to "menu_act01" and 
 
 Keep in mind that custom menus will be replaced with the default one if you verify the game files or reinstall the game.
 
-# Previews
+# Previews (might take a bit to load)
 ## Calithon 2019 - made by Taskinoz
 
 ![Calithon Banner V1](_Preview%20Images/Calithon/Calithon%20Banner%20V1.gif)
